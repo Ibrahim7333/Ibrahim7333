@@ -1,6 +1,4 @@
-### Hello!
-
-# Hi, I'm Ibrahim, 👋
+# Hello, I'm Ibrahim, 👋
 
 A backend software engineer who owns features from design through deployment, and cares about the things that break in between.
 
