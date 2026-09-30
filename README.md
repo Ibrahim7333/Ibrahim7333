@@ -1,16 +1,15 @@
 ### Hello!
 
-<!--
-**Ibrahim7333/Ibrahim7333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ibrahim, 👋
 
-Here are some ideas to get you started:
+A backend software engineer who owns features from design through deployment, and cares about the things that break in between.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+**Node.js · TypeScript · Express · PostgreSQL · MongoDB · Redis · AWS · Python (FastAPI) · BullMQ · Socket.io · Voice AI · Computer Vision**
+
+## Background
+BS Computer Science, professional experience building and maintaining production backends for global clients.
+
+## Find me
+🌐 [ibrahim-abdul-rehman.vercel.app](https://ibrahim-abdul-rehman.vercel.app/)
+📧 [ibrahim.abdulruhman@gmail.com](mailto:ibrahim.abdulruhman@gmail.com)
