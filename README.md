@@ -1,9 +1,9 @@
 # Hello, I'm Ibrahim, 👋
 
-A backend software engineer who owns features from design through deployment, and cares about the things that break in between.
+A software engineer who owns features from design through deployment, and cares about the things that break in between.
 
 ## What I work with
-**Node.js · TypeScript · Express · PostgreSQL · MongoDB · Redis · AWS · Python (FastAPI) · BullMQ · Socket.io · Voice AI · Computer Vision**
+**Node.js · TypeScript · Express · React.js · NextJS · PostgreSQL · MongoDB · Redis · AWS · Python (FastAPI) · BullMQ · Socket.io · Voice AI · Computer Vision**
 
 ## Background
 BS Computer Science, professional experience building and maintaining production backends for global clients.
