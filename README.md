@@ -9,5 +9,5 @@ A backend software engineer who owns features from design through deployment, an
 BS Computer Science, professional experience building and maintaining production backends for global clients.
 
 ## Find me
-### Website: [ibrahimarehman.com](https://ibrahimarehman.com/)
-### Email: [ibrahim.abdulruhman@gmail.com](mailto:ibrahim.abdulruhman@gmail.com)
+#### Website: [ibrahimarehman.com](https://ibrahimarehman.com/)
+#### Email: [ibrahim.abdulruhman@gmail.com](mailto:ibrahim.abdulruhman@gmail.com)
